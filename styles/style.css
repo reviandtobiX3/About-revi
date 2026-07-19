@@ -259,9 +259,8 @@ main {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 186px;
+    width: auto;
     height: 44px;
-    border-radius: 12px;
     background-image: url('../assets/badges/support_me_on_kofi_badge_beige.png');
     background-position: center;
     background-repeat: no-repeat;
