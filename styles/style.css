@@ -14,11 +14,11 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg: #111814;
+        --bg: #304037;
         --bg-soft: #17221a;
         --surface: rgba(22, 31, 24, 0.84);
         --surface-strong: #182019;
-        --text: #edf7e9;
+        --text: #d2f7c3;
         --muted: rgba(237, 247, 233, 0.72);
         --accent: #8cb56f;
         --accent-deep: #b7d39a;
